@@ -1,0 +1,75 @@
+commit afa29f19746b2db0fb3481f83c887bdd6d5ef7f5
+Author: prerna2111 <125980175+prerna2111@users.noreply.github.com>
+Date:   Sat Mar 9 11:50:11 2024 +0530
+
+    Deleting file2.txt
+
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index f64bde3..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1,2 +0,0 @@
+-2026
+-Software engineer
+
+commit 82eacd1b27a570ff02026abfe7f8b5f020e9a9db
+Author: prerna2111 <125980175+prerna2111@users.noreply.github.com>
+Date:   Sat Mar 9 11:29:21 2024 +0530
+
+    Graduation year added
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..f64bde3
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1,2 @@
++2026
++Software engineer
+
+commit 166296c4f074878636018a638758d52d19c9c75d
+Author: prerna2111 <125980175+prerna2111@users.noreply.github.com>
+Date:   Sat Mar 9 10:57:53 2024 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 236315c..5c9e9b2 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,4 @@
+ Prerna Tarani Computer Science
++The Brewed Leaf
++Zindagi Na Milegi Dobaara
++
+
+commit 568411b01a3080b8fac98de6293ce071d65c65f2
+Author: prerna2111 <125980175+prerna2111@users.noreply.github.com>
+Date:   Sat Mar 9 10:42:04 2024 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index d1d27bb..236315c 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Prerna Tarani 29127
+\ No newline at end of file
++Prerna Tarani Computer Science
+
+commit 82f1c8f3ff2173e67cdee166a766f71226de62a3
+Author: prerna2111 <125980175+prerna2111@users.noreply.github.com>
+Date:   Sat Mar 9 10:35:31 2024 +0530
+
+    Commiting a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..d1d27bb
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Prerna Tarani 29127
+\ No newline at end of file
